@@ -1,4 +1,4 @@
-﻿# Приветствую, я xansel <img src="https://emojicdn.elk.sh/🍌" width="20" height="20"/> 🎧
+﻿# Приветствую, я xansel <img src="https://emojicdn.elk.sh/🍌" width="20" height="20"/> <img src="https://emojicdn.elk.sh/🎧" width="20" height="20"/> 🎧
 
 ---
 
@@ -6,7 +6,23 @@
 
 Команда GitHub добавила новые достижения для разработчиков, принимающих участие в проектах с исходным кодом. На данном этапе компания представила три новых значка, но планирует ещё больше расширить коллекцию.
 
-- :mailbox: Как связаться со мной: :mailbox: Как связаться со мной: [![Discord Badge](https://img.shields.io/badge/-rayangoslizing-7289da?style=flat&logo=Discord&logoColor=white)]. [![Tutanota Badge](https://img.shields.io/badge/-Tutanota-7B7B7B?style=flat&logo=Tutanota&logoColor=white)](mailto:xachelloyaha@tuta.io)
+- :mailbox: Как связаться со мной: :mailbox: Как связаться со мной: ![Discord Badge](https://img.shields.io/badge/-rayangoslizing-7289da?style=flat&logo=Discord&logoColor=white). [![Tutanota Badge](https://img.shields.io/badge/-Tutanota-7B7B7B?style=flat&logo=Tutanota&logoColor=white)](mailto:xachelloyaha@tuta.io)
+
+  ---
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://open.spotify.com/user/31chdakyfuln2imz2ycmwwzvmvji?si=b30c703880b0443b" target="_blank">
+      <img src="https://www.flaticon.com/free-icon/spotify_2111624?term=spotify&related_id=2111624" width="40" height="40" alt="spotify">
+    </a>
+    <a href="https://steamcommunity.com/profiles/76561199522295624" target="_blank">
+      <img src="https://www.flaticon.com/free-icon/steam_2111630?term=steam&page=1&position=10&origin=search&related_id=2111630" width="40" height="40" alt="steam">
+    </a>
+    <a href="https://twitter.com/xansellll" target="_blank">
+      <img src="https://www.flaticon.com/free-icon/twitter_11823292?term=twitter&page=1&position=10&origin=search&related_id=11823292" width="40" height="40" alt="steam">
+    </a>
+  </div>
 
 ---
 
