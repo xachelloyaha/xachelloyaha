@@ -1,4 +1,4 @@
-﻿# Приветствую, я xansel <img src="https://emojicdn.elk.sh/🍌" width="20" height="20"/> <img src="https://emojicdn.elk.sh/🎧" width="20" height="20"/>
+﻿# Hello, I'm xansel <img src="https://emojicdn.elk.sh/🍌" width="20" height="20"/> <img src="https://emojicdn.elk.sh/🎧" width="20" height="20"/>
 
 ---
 
