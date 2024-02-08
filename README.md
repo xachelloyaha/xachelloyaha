@@ -1,4 +1,4 @@
-﻿# Приветствую, я xansel <img src="https://emojicdn.elk.sh/🍌" width="20" height="20"/> <img src="https://emojicdn.elk.sh/🎧" width="20" height="20"/> 🎧
+﻿# Приветствую, я xansel <img src="https://emojicdn.elk.sh/🍌" width="20" height="20"/> <img src="https://emojicdn.elk.sh/🎧" width="20" height="20"/>
 
 ---
 
@@ -20,7 +20,7 @@
       <img src="https://github.com/FortAwesome/Font-Awesome/blob/a1232e34553634c5363aa62c8d1b02161a4438e1/js-packages/%40fortawesome/fontawesome-free/svgs/brands/steam.svg?plain=1" width="40" height="40" alt="steam">
     </a>
     <a href="https://twitter.com/xansellll" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/twitter/twitter-original.svg#L1" width="40" height="40" alt="twitter">
+      <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/twitter/twitter-original.svg#L1" width="35" height="35" alt="twitter">
     </a>
   </div>
 
@@ -64,6 +64,6 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/xachelloyaha)
+![codewars](https://www.codewars.com/users/xachelloyaha/badges/large)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xachelloyaha)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xachelloyaha.xachelloyaha)
