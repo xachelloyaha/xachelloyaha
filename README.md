@@ -2,15 +2,15 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 Команда GitHub добавила новые достижения для разработчиков, принимающих участие в проектах с исходным кодом. На данном этапе компания представила три новых значка, но планирует ещё больше расширить коллекцию.
 
-- :mailbox: Как связаться со мной: :mailbox: Как связаться со мной: ![Discord Badge](https://img.shields.io/badge/-rayangoslizing-7289da?style=flat&logo=Discord&logoColor=white). [![Tutanota Badge](https://img.shields.io/badge/-Tutanota-7B7B7B?style=flat&logo=Tutanota&logoColor=white)](mailto:xachelloyaha@tuta.io)
+- :mailbox: How to reach me: ![Discord Badge](https://img.shields.io/badge/-rayangoslizing-7289da?style=flat&logo=Discord&logoColor=white). [![Tutanota Badge](https://img.shields.io/badge/-Tutanota-7B7B7B?style=flat&logo=Tutanota&logoColor=white)](mailto:xachelloyaha@tuta.io)
 
   ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
 <!--     <a href="https://open.spotify.com/user/31chdakyfuln2imz2ycmwwzvmvji?si=b30c703880b0443b" target="_blank">
@@ -26,7 +26,7 @@
 
 ---
 
-### 💻 База знаний:
+### 💻 Knowledge:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -47,7 +47,7 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+<!-- ### 💻 Courses completed:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
